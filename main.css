@@ -1,0 +1,181 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css")
+@import url('https://fonts.googleapis.com/css2? family= Comfortaa:wght@300 & display=swap');
+p.a1{
+  font-family: Comfortaa;
+  font-size: 24px;
+  margin-left: 40px;
+}
+
+header.v {
+  background-color: #1a1a1a;
+  color: yellow;
+  font-size: 18px;
+  font-family: Comfortaa;
+  border-bottom: 4px gray solid;
+}
+a.q {
+  color: pink;
+  margin-right: 50px;
+}
+#start {
+  margin-right: 75px;
+}
+
+h3 {
+  margin-top: 1px;
+}
+
+header.w {
+
+background-color: yellow;
+color: black;
+height: 70px;
+
+}
+
+.a  {
+  margin-left: 150px;
+  margin-top: 20px;
+  font-family: Comfortaa;
+  font-size: 25px;
+}
+
+.eter {
+  margin-left: 600px;
+  margin-top: -270px;
+}
+
+.a {
+  background-color: blue;
+  color: yellow;
+  border-radius: 15px;
+  border-color: red;
+}
+
+.a:hover {
+  font-size: 18px;
+  background-color: yellow;
+  color: red;
+  transition: 0.5s;
+  box-shadow: 0 0 20px black;
+}
+
+h1 {
+  font-family: Comfortaa;
+  color: red;
+}
+
+.buy {
+  margin-left: 130px;
+  background-color: red;
+  color: yellow;
+  width: 150px;
+  font-size: 30px;
+  border-radius: 150px;
+  border-color: yellow;
+}
+
+.as {
+  color: white;
+  margin-left: 20px;
+}
+
+.as:hover {
+  color: red;
+  transform: skewY(10deg);
+  transition: 1s;
+  box-shadow: 0 0 50px red;
+}
+
+.buy:hover::after {
+  color: yellow;
+  content: attr(title);
+  transition: 3s;
+  padding-left: 2px;
+}
+
+
+.buy:hover{
+    transform: rotate(10deg) scale(1.20) ;
+    transition: 2s;
+    box-shadow: 0 0 100px red;
+}
+
+
+#act {
+  margin-left: 800px;
+margin-top: -300px;
+}
+
+#act:hover{
+  transform: rotate(360deg);
+  transition: 5s;
+}
+
+.abzac {
+font-size: 30px;
+font-family: Comfortaa;
+color: green;
+}
+
+h2 {
+  color: red;
+  margin-left: 50px;
+  font-size: 40px;
+  font-family: Comfortaa;
+}
+
+.tovar:hover {
+transform: scale(1.2);
+transition: 1s;
+content: attr(title);
+
+}
+
+.tovar:hover::after {
+  content: attr(title);
+background-color: red;
+color: yellow;
+}
+form {
+  background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-03/1614847330_132-p-fonovaya-kartinka-dlya-saita-161.jpg");
+  height: 380px;
+}
+
+input {
+  margin-top: 206px;
+}
+
+.rassylka {
+  height: 380px;
+  background-size: 350px;
+  margin-top: 180px;
+}
+
+#vera {
+  margin-top: 100px;
+  font-size: 60px;
+}
+
+label {
+  font-size: 20px;
+  font-family: Comfortaa;
+  color: white;
+}
+
+#submit {
+  background-color: red;
+  color: yellow;
+  border-color: yellow;
+  border-radius: 30px;
+}
+
+#submit:hover {
+  background-color: yellow;
+  color: red;
+  border-color: red;
+  box-shadow: 0 0 20px red;
+  transition: 1.6s;
+  transform: rotate(360deg) scale(1.4);
+
+}
